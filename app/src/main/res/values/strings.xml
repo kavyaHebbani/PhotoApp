@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoApp</string>
+    <string name="action_settings">Settings</string>        
+    
+    <string name="desc">Splash Screen Image</string>
+    <string name="desc2">Selected Image</string>
+    
+    <string name="gal_edit">Choose from Gallery</string>
+    <string name="cam_edit">Take a Picture</string>    
+    <string name="edit_text">Enter Text Here</string>   
+    
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="rate">Rate</string>
+    
+    <item type="integer" name="max_length">40</item>
+
+</resources>
